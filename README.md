@@ -9,4 +9,6 @@ Knowledge of the HTML boilerplate structure
 Knowledge of HTML elements
 Knowledge of HTML attributes
 
+Credits
+Kirk K https://www.flickr.com/photos/mmm-yoso/ 
 
